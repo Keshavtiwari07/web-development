@@ -1,4 +1,4 @@
-
+ // easy problem
 var map = function(arr, fn) {
     const transformedArr = [];
     let index = 0;
