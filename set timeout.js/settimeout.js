@@ -16,3 +16,8 @@ function getdata(dataid,getnextdata){
  
     },3000);
  }
+ getdata(1, () => {
+    getdata(2 ,()=> {
+        getdata (3);
+    });
+});
