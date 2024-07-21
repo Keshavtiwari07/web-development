@@ -1,6 +1,6 @@
 // for pause - settimeout
 // const hello = ( )=> {
-//     console.log("hello world ");
+//     console.log("hello world ");// arrow function
 // }
 
 // setTimeout(hello,3000);
