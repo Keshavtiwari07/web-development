@@ -9,7 +9,7 @@ for (let i = 0; i < myArr2.length; i++) {
 myArr.push(6);
 console.log(myArr);
 
-// Removing the last element of the array
+// Removing last element of the array.
 myArr.pop();
 console.log(myArr);
 
